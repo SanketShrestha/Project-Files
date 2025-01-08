@@ -1,0 +1,12 @@
+(2016, Aug 31). Retrieved from Interaction Design Foundation: https://www.interaction-design.org/literature/topics/visual-hierarchy#:~:text=Visual%20hierarchy%20in%20web%20design,a%20harmonious%2C%20intuitive%20user%20experience.
+(2022, Jun 21). Retrieved from geeksforgeeks: https://www.geeksforgeeks.org/difference-between-responsive-design-and-adaptive-design/
+(2022, Jul 27). Retrieved from Venngage: https://venngage.com/blog/visual-hierarchy/
+(2024). Retrieved from Figma: https://www.figma.com/resource-library/ui-design-principles/
+(2024). Retrieved from Laws of UX: https://lawsofux.com/
+Bhatt, G. (n.d.). Retrieved from StatusNeo: https://statusneo.com/typography-a-guide-to-make-effective-fonts-for-readability-and-visual-appeal/
+Cameron Chapman. (2018). Retrieved from Toptal: https://www.toptal.com/designers/ux/color-in-ux
+Dovetail Editorial Team. (2023, may 19). Retrieved from Dovetail: https://dovetail.com/ux/adaptive-design/#:~:text=An%20adaptive%20design%20approach%20makes,finds%20the%20best%2Dfit).
+Fortugno, A. (2024, May 26). Retrieved from NOGOOD: https://nogood.io/2024/03/26/user-retention/#1
+Tlitz-Patrick. (2022, Jan 24). Retrieved from https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography
+Tomboc, K. (2024, Nov 29). Retrieved from https://www.lyssna.com/blog/accessibility-in-ux-design/
+
