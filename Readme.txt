@@ -7,6 +7,7 @@ External Supervisor: Rubesh Dangol
 
 
 1. Documentation
-2. Progress File - Contains .git Files
-3. Read Me
-4. References
+2. Figma File - Contains .fig Files
+3. Images - contains all the images used in the documentation
+4. Read Me
+5. References
